@@ -1,11 +1,10 @@
-## Hi there 👋  NAME is here. (LOADING...)
+## Hi there 👋  Habip BİNGÖL is here. (LOADING...)
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME/) 
-<a href="https://GİTHUB-USERNAME.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB-USERNAME" alt="visitor counter"/>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habip-bingöl-mrb25/) 
+<a href="https://habip-bingol.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=habip-bingol" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-### What I'm using ? 🛠     ZAMANLA DÜZENLENECEK KISIM
-
+### What I'm using ? 🛠    
 I prefer React & React Native for web/mobile front-end development.
 <br/>
 
@@ -13,7 +12,7 @@ I prefer React & React Native for web/mobile front-end development.
 
 - 💬 Ask  me about anything that you want to learn
 
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/USERNAME/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+-  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/habip-bingöl-mrb25/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 
 ## 🚀 Skills
@@ -43,6 +42,6 @@ I prefer React & React Native for web/mobile front-end development.
 
 ## 📈 Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GİTHUB-USERNAME&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GİTHUB-USERNAME&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GİTHUB-USERNAME&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=habip-bingol&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habip-bingol&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habip-bingol&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
