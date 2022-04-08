@@ -8,7 +8,7 @@
 <!-- I prefer React & React Native for web/mobile front-end development. -->
 <br/>
 
-- Python, MySQL,PostgreSQL, MongoDB, Django Git, GitHub
+- Python, MySQL, PostgreSQL, MongoDB, Django Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 
