@@ -5,10 +5,10 @@
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 🛠    
-I prefer React & React Native for web/mobile front-end development.
+<!-- I prefer React & React Native for web/mobile front-end development. -->
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub
+- Python, MySQL,PostgreSQL, MongoDB, Django Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 
