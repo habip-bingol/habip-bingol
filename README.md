@@ -5,8 +5,7 @@
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 🛠    
-<!-- I prefer React & React Native for web/mobile front-end development. -->
-<br/>
+
 
 - Python, MySQL, PostgreSQL, MongoDB, Django Git, GitHub
 
