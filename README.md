@@ -7,7 +7,7 @@
 ### What I'm using ? 🛠    
 
 
-- Python, MySQL, PostgreSQL, MongoDB, Django Git, GitHub
+- Python, MySQL, PostgreSQL, MongoDB, Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 
