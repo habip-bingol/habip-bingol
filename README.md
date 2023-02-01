@@ -1,4 +1,4 @@
-<!-- ## Hi there 👋  Habip BİNGÖL is here. -->
+## Hi there 👋  Habip BİNGÖL is here.
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40B831&multiline=true&height=80&lines=Hi!+My+name+is+Habip.;I+am+a+Data+Analyst.;DS+%7C+ML+%7C+AI+Enthusiastic.)](https://git.io/typing-svg)
 <img align="right" width="380" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=firatolcum&theme=blue-green" width="380" height="200" />
