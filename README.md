@@ -35,11 +35,7 @@
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="48"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="50" </a> 
-<!--  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a>  -->
-
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="48" /> </a>
- 
-<!--  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160834121-9010f1e6-3725-4c4e-8977-856e1682e0d4.png" alt="gitHub" height="50"/> </a>  -->
  <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="48"/> </a>
