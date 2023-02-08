@@ -17,7 +17,7 @@
 ## Data Visualization
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.google.com/search?q=microsoft+power+bi+icon&tbm=isch&ved=2ahUKEwiQpbfOvob9AhVJi_0HHZs9A8AQ2-cCegQIABAA&oq=power+BI+icon+micro&gs_lcp=CgNpbWcQARgAMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIIxAnOgYIABAHEB46BwgAEIAEEBNQigFYohJgqCVoAHAAeACAAZsBiAGAB5IBAzAuN5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=HuHjY5CeJ8mW9u8Pm_uMgAw&bih=649&biw=1396#imgrc=qrXoXCserFPEpM" alt="Power BI" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
 ## Python Libraries
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
