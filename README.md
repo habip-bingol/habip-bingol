@@ -4,12 +4,11 @@
 <a href="https://habip-bingol.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=habip-bingol" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-I’m currently learning Data Science tools
 
 ### What I'm using ? 🛠    
 
 
-- Python, SQL, Git, GitHub
+- Python, SQL, Tableau, PowerBI, Git&Github
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -18,7 +17,7 @@ I’m currently learning Data Science tools
 ## Data Visualization
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.google.com/search?q=microsoft+power+bi+icon&tbm=isch&ved=2ahUKEwiQpbfOvob9AhVJi_0HHZs9A8AQ2-cCegQIABAA&oq=power+BI+icon+micro&gs_lcp=CgNpbWcQARgAMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIIxAnOgYIABAHEB46BwgAEIAEEBNQigFYohJgqCVoAHAAeACAAZsBiAGAB5IBAzAuN5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=HuHjY5CeJ8mW9u8Pm_uMgAw&bih=649&biw=1396#imgrc=qrXoXCserFPEpM" alt="Power BI" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
 ## Python Libraries
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
